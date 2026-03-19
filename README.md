@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @dicho42
-- 👀 I’m interested by pretty girl
-- 🌱 I’m currently learning cobol
+- 🌱 I’m currently learning to beacome DevOps
 - 💞️ I’m looking to collaborate on noob things
-- 📫 How to reach me i'm too shy
 - 😄 Pronouns: she
 - ⚡ Fun fact: i love atari st
 
